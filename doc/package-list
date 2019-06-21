@@ -1,0 +1,17 @@
+com.itxiaox.android.xutils
+com.itxiaox.android.xutils.app
+com.itxiaox.android.xutils.bitmap
+com.itxiaox.android.xutils.exception
+com.itxiaox.android.xutils.file
+com.itxiaox.android.xutils.intent
+com.itxiaox.android.xutils.log
+com.itxiaox.android.xutils.net
+com.itxiaox.android.xutils.ui
+com.itxiaox.java.utils.data
+com.itxiaox.java.utils.date
+com.itxiaox.java.utils.file
+com.itxiaox.java.utils.http
+com.itxiaox.java.utils.log
+com.itxiaox.java.utils.secret
+com.itxiaox.java.utils.thread
+com.itxiaox.java.utils.validate
