@@ -1,0 +1,9 @@
+{
+	"status": 0,
+	"msg": "success",
+	"data": {
+		"name": "张三",
+		"age": 40,
+		"sex": "M"
+	}
+}
